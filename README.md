@@ -9,4 +9,4 @@ The game covers following areas in Rust language.
 - How to use extenal libraries which provide by Rust ([crate](https://crates.io/))
 - matching & compare two numbers.
 
-The game is a little bit differ from the exact one in the documentation, but does not exceed the boundary limit. 
+The game is a little bit differ from the exact one in the documentation, but remains inside the scope. 
